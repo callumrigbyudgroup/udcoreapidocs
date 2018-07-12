@@ -1,0 +1,6 @@
+site_name: UdCoreApi
+theme: readthedocs
+repo_url: https://github.com/callumrigbyudgroup/udcoreapidocs
+
+pages:
+- Home: 'index.md'
